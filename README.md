@@ -1,1 +1,1 @@
-# A sibgle page application using HTML,CSS and JavaScript.
+# A single page application using HTML,CSS and JavaScript.
